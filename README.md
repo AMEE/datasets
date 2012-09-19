@@ -18,6 +18,4 @@ Each dataset/methodology is described by a common set of files which contain the
 License
 =======
 
-© Copyright 2012 AMEE.
-
 Licensed under the MIT license (See COPYING file for details)
